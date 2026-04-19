@@ -15,6 +15,8 @@ const config: Config = {
       fontFamily: {
         'space-grotesk': ['"Space Grotesk"', 'sans-serif'],
         'inter': ['Inter', 'sans-serif'],
+        'mono': ['"JetBrains Mono"', 'monospace'],
+        'manrope': ['Manrope', 'sans-serif'],
       }
     },
   },
